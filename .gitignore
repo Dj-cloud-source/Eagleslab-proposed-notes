@@ -1,0 +1,15 @@
+# GitBook/HonKit generated files
+dist/
+_book/
+node_modules/
+package-lock.json
+
+# Environment files
+.env
+
+# System files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/

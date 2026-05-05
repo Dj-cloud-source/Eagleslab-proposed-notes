@@ -1,0 +1,26 @@
+{
+	"build": {
+		"force": false
+	},
+	"SRE": {
+		"host": "110.42.61.198",
+		"port": 22,
+		"user": "root",
+		"path": "/opt/1panel/www/sites/ncloud.eagleslab.com/index/_book",
+		"enabled": true
+	},
+	"Java": {
+		"host": "java.example.com",
+		"port": 22,
+		"user": "deploy",
+		"path": "/opt/docs/java",
+		"enabled": false
+	},
+	"Security": {
+		"host": "110.42.61.198",
+		"port": 22,
+		"user": "root",
+		"path": "/opt/1panel/www/sites/security.eagleslab.com/index/_book",
+		"enabled": true
+	}
+}
